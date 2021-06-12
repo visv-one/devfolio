@@ -13,28 +13,28 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/visvxplore/`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/viswasai/`,
     // Content of the About Me section
     about: `I work on web technologies in Front-end. Graduated in EEE, started career in Web development with passion towards the Web Technologies. Web ❤.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Lifestyle Bot',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Lifestyle Bot helps users to opt the specific clothing and matchings to wear.',
+        link: 'http://bot.lifestyle.fabulyst.com/',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Fabulyst Admin Dashboard',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Worked on admin dashboard related to fabulyst organisation.',
+        link: 'https://www.fabulyst.ai/',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Letsmobility',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Letsmobility is a app developing IT company.',
+        link: 'https://letsmobility.com/',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -60,7 +60,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'HTML5, CSS3, JavaScript (ES6+), Node.js, Express.js, React',
+          'HTML5, CSS3, JavaScript (ES6+), Angular, React, Vue, Node.js, Express.js',
       },
       {
         name: 'Databases',
