@@ -9,7 +9,7 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Front-end Developer`,
     // Optional: Twitter account handle
-    author: `@visvxplore`,
+    author: `@_viswasai`,
     // Optional: Github account URL
     github: `https://github.com/visvxplore/`,
     // Optional: LinkedIn account URL
@@ -40,9 +40,14 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Tech Mahindra',
+        description: 'Senior Associate Engineer, April 2022 -  Present',
+        link: 'https://techmahindra.com/',
+      },
+      {
         name: 'Oi',
-        description: 'Front-end Developer, January 2020 -  Present',
-        link: 'http://oi.co.uk/',
+        description: 'Front-end Developer, January 2020 -  March 2022',
+        link: 'https://oi.co.uk/',
       },
       {
         name: 'Letsmobility',
