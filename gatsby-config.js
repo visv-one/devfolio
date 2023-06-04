@@ -41,7 +41,7 @@ module.exports = {
     experience: [
       {
         name: 'Tech Mahindra',
-        description: 'Senior Associate Engineer, April 2022 -  Present',
+        description: 'Senior Associate Designer, April 2022 -  Present',
         link: 'https://techmahindra.com/',
       },
       {
