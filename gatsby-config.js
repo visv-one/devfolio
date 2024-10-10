@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://visv.one/`,
     // Your Name
     name: 'Viswa Sai Gubbala',
     // Main Site Title
@@ -19,16 +19,9 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Lifestyle Bot',
-        description:
-          'Lifestyle Bot helps users to opt the specific clothing and matchings to wear.',
-        link: 'http://bot.lifestyle.fabulyst.com/',
-      },
-      {
-        name: 'Fabulyst Admin Dashboard',
-        description:
-          'Worked on admin dashboard related to fabulyst organisation.',
-        link: 'https://www.fabulyst.ai/',
+        name: 'Smart Browse',
+        description: 'Smart browse uk website',
+        link: 'https://smartbrowse.co.uk'
       },
       {
         name: 'Letsmobility',
